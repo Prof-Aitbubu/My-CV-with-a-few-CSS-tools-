@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+  color: black;
+}
+h1 {
+  color: purple;
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  text-decoration: wavy;
+  font-size: 24px;
+  font-family: bookman old system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
+img{
+    margin-left: 570px;
+    border-radius: 28px;
+    box-shadow: 1px -1px 15px 21px rgba(34, 35, 80, 0.2);
+}
+/* Box Model */
+.contacts{ background-color: indianred;
+
+}
